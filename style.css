@@ -1,0 +1,96 @@
+.Credit{
+    float: left;
+    margin-left: 67%;
+    padding-right: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -100px;
+}  
+
+.Pay{
+    color: rgb(165,165,165);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 80%;
+    margin-top: -100px;
+}
+
+.button{
+    padding: 1.2%;
+    font-size: 30px;
+    font-weight: bold;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border: 2px solid white;
+    margin-left: 640px;
+    
+}
+
+.button2{
+    padding: 1.2%;
+    font-size: 30px;
+    font-weight: bold;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border: 2px solid white;
+    margin-left: 165px;
+    
+}
+
+
+
+
+.button2 a{
+    color: black;
+}
+
+
+
+.offer{
+    color: white;
+}
+
+
+footer{
+    width: 101.9%;
+    margin-left: -20px;
+    height: 750px;
+    background-color: black;
+}
+
+#products {
+    list-style: none;
+    margin: -40px 0px 0px 48%;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#products li{
+    padding: 1.5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.product li a{
+    text-decoration: none;
+    color: bisque;
+}
+
+.product li a:hover{
+    
+    color: white;
+}
+
+#resource{
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
+
+#policy{
+    margin-top: 10px;
+}
+
+
+
